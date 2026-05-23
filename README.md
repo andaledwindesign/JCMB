@@ -1,23 +1,3 @@
-<div style="position: relative; min-height: 280px; overflow: hidden; border-radius: 12px;">
-
-  <!-- Layer 1: the image (behind everything) -->
-  <img src="YOUR_IMAGE_URL"
-       style="position: absolute; inset: 0;
-              width: 100%; height: 100%; object-fit: cover; z-index: 0;" />
-
-  <!-- Layer 2: dark overlay so text is readable -->
-  <div style="position: absolute; inset: 0;
-              background: rgba(0,0,0,0.5); z-index: 1;"></div>
-
-  <!-- Layer 3: your text (on top) -->
-  <div style="position: relative; z-index: 2;
-              text-align: center; padding: 2rem; color: white;">
-    <h1>⛪ Welcome to Our Church</h1>
-    <p>"This page is for everyone to see..."</p>
-  </div>
-
-</div>
-
 
 ---
 
