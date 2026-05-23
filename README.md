@@ -20,6 +20,10 @@
 
 ---
 
+## 📖 Preaching Word
+👉 Preaching/Docs/README.md
+``
+
 ## 📖 Preaching
 👉 Preaching/Sunday Service/README.md
 ``
