@@ -1,19 +1,11 @@
-<img src="https://github.com/user-attachments/assets/a281339b-00d6-473f-b2f7-9ab38d7fbbed" 
-     alt="31st anniv" 
-     class="hero-image" />
-
-     .hero-image {
-  width: 100%;        /* stretches to full width of container */
-  height: auto;       /* keeps aspect ratio */
-  display: block;     /* removes inline spacing */
-  margin: 0 auto;     /* centers if inside a smaller container */
-}
-
-
-
-# ⛪ Welcome to Our Church
-
-> “This page is for everyone to see what is going on in our church.”
+<div style="display: flex; gap: 24px; align-items: center;">
+  <img src="YOUR_IMAGE_URL" alt="31st anniv"
+       style="width: 260px; border-radius: 12px; object-fit: cover;" />
+  <div>
+    <h1>⛪ Welcome to Our Church</h1>
+    <blockquote>"This page is for everyone to see..."</blockquote>
+  </div>
+</div>
 
 ---
 
