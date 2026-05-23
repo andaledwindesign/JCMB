@@ -2,6 +2,14 @@
      alt="31st anniv" 
      class="hero-image" />
 
+     .hero-image {
+  width: 100%;        /* stretches to full width of container */
+  height: auto;       /* keeps aspect ratio */
+  display: block;     /* removes inline spacing */
+  margin: 0 auto;     /* centers if inside a smaller container */
+}
+
+
 
 # ⛪ Welcome to Our Church
 
