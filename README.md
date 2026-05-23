@@ -1,11 +1,18 @@
-<div style="display: flex; gap: 24px; align-items: center;">
-  <img src="YOUR_IMAGE_URL" alt="31st anniv"
-       style="width: 260px; border-radius: 12px; object-fit: cover;" />
-  <div>
-    <h1>⛪ Welcome to Our Church</h1>
-    <blockquote>"This page is for everyone to see..."</blockquote>
-  </div>
-</div>
+<!-- ONE wrapper covers everything -->
+<div style="position: relative; border-radius: 12px; overflow: hidden;">
+
+  <!-- Background image — stretches to full height of wrapper -->
+  <img src="YOUR_IMAGE_URL"
+       style="position: absolute; inset: 0;
+              width: 100%; height: 100%;
+              object-fit: cover; z-index: 0;" />
+
+  <!-- Dark overlay -->
+  <div style="position: absolute; inset: 0;
+              background: rgba(0,0,0,0.58); z-index: 1;"></div>
+
+  <!-- ALL your content goes inside here -->
+  <div style="position: relative; z-index: 2; padding: 2rem; color: white;">
 
 ---
 
