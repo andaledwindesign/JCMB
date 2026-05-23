@@ -21,7 +21,7 @@
 ---
 
 ## 📖 Preaching Word
-👉 Preaching/Docs/README.md
+👉 Preaching/Docs/Docs.md
 ``
 
 ## 📖 Preaching
