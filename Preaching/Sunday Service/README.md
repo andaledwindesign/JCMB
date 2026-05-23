@@ -1,9 +1,4 @@
 # 📖 Sunday Service – Preaching
 
-Please choose what you would like to view:
-
-- 🙏 sermon.md
-- 📝 notes.md
-- 📊 sample for github.xlsx
-
+[Sunday-Love-051726 - Copy.pptx](https://github.com/user-attachments/files/28178502/Sunday-Love-051726.-.Copy.pptx)
 
