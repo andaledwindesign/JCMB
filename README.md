@@ -22,11 +22,9 @@
 
 ## 📖 Preaching Word
 👉 [Preaching](Docs/Docs.md)
-``
 
 ## 📖 Preaching
 👉 Preaching/Sunday Service/README.md
-``
 
 [https://www.facebook.com/jcmbministries/videos/3412800465537120](https://www.facebook.com/jcmbministries/videos/3412800465537120)
 
