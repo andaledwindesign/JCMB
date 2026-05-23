@@ -1,4 +1,7 @@
-<img width="2000" height="1125" alt="31st anniv" src="https://github.com/user-attachments/assets/a281339b-00d6-473f-b2f7-9ab38d7fbbed" />
+<img src="https://github.com/user-attachments/assets/a281339b-00d6-473f-b2f7-9ab38d7fbbed" 
+     alt="31st anniv" 
+     class="hero-image" />
+
 
 # ⛪ Welcome to Our Church
 
